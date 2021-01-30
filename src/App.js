@@ -7,7 +7,7 @@ function App() {
   document.title = "My Documents";
   return (
     <div className="App">
-    <BrowserRouter basename="/temp">
+    <BrowserRouter basename="/doc">
       <nav>
         <Link to="/">Home</Link>
         {/* <Link to="/tt">tt</Link> */}
