@@ -18,7 +18,7 @@ function CollaborativeNotebookDemo (){
             </p>
             <p className="irb-content">
                 Extensions: <br/>
-
+                <a href="http://3.22.120.178:8823">http://3.22.120.178:8823</a>
             </p>
             <IRBContent text={howToUseIt}></IRBContent>
             <IRBTitle text="Get it work locally"></IRBTitle>
