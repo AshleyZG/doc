@@ -6,11 +6,7 @@ import CollaborativeNotebookDemo from "./collaborative-notebook";
 function DemoList ()  {
     return (
         <div >
-            {/* ??? */}
-            {/* {CollaborativeNotebook} */}
-            {/* <CollaborativeNotebook/> */}
             <Link to={`/demo/collaborative-notebook`}  >Collaborative notebook</Link>
-            {/* <Route path='/interview-doc/collaborative-notebook' component={CollaborativeNotebook}></Route> */}
         </div>
     );
 };
